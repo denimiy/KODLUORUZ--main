@@ -1,0 +1,2 @@
+# KODLUORUZ-
+Kodluyoruz ilk ödev
